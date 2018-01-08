@@ -1,4 +1,5 @@
 git init 
 git commit -m "first"
 git remote add origin https://...
+//git remote rm origin
 git push -u orgin master
